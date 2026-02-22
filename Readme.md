@@ -30,20 +30,17 @@ The goal was to practice core HTML fundamentals — no CSS, no JavaScript — ju
 - Images, descriptions, ingredient lists, and step-by-step instructions  
 - Deployed using GitHub Pages  
 
----
-
 ## Project Structure
+
+```
 .
 ├── index.html
 ├── recipes/
-│ ├── idli.html
-│ ├── ulavacharu.html
-│ └── vegbiryani.html
+│   ├── idli.html
+│   ├── ulavacharu.html
+│   └── vegbiryani.html
 └── images/
-
-
----
-
+```
 
 ## What I Focused On
 
