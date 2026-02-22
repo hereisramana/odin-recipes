@@ -9,7 +9,7 @@ A simple multi-page recipe website built using pure HTML as part of **The Odin P
 
 ## Live Preview
 
-[View on GitHub Pages](#)
+[View on GitHub Pages](https://hereisramana.github.io/odin-recipes/)
 
 ---
 
