@@ -17,7 +17,7 @@ A simple multi-page recipe website built using pure HTML as part of **The Odin P
 
 This is my first assignment in the Foundations track.
 
-The goal was to practice core HTML fundamentals — no CSS, no JavaScript — just structure, linking, and clean markup. The focus was not on visual design, but on understanding how web pages are built from the ground up.
+The goal was to practice core HTML fundamentals — no CSS, no JavaScript — just structure, linking, and clean markup.
 
 ---
 
@@ -60,5 +60,3 @@ This project is intentionally simple.
 It reflects where I am in my learning journey.
 
 I struggled with keeping the markup neatly structured, but that process helped strengthen my understanding of document flow, hierarchy, and organization.
-
-It’s a foundational project — built for growth, not polish.
